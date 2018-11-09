@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],[function(o,n,i){"use strict";var s=function(){console.log("this is david")};n.a=function(){console.log("this is common"),s()}}]]);

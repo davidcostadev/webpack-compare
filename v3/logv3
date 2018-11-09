@@ -1,0 +1,70 @@
+Hash: bed8e120a87e4d7be867
+Version: webpack 3.12.0
+Time: 1212ms
+    Asset     Size  Chunks                    Chunk Names
+   one.js   500 kB       0  [emitted]  [big]  one
+vendor.js   499 kB       1  [emitted]  [big]  vendor
+   two.js  3.07 kB       2  [emitted]         two
+ [319] ./src/common.js 80 bytes {0} {2} [built]
+ [320] multi ramda 28 bytes {1} [built]
+ [321] ./src/one.js 106 bytes {0} [built]
+ [322] ./src/two.js 78 bytes {2} [built]
+    + 319 hidden modules
+---------------------------------------
+Hash: 0663dbe707dfc4bc706b
+Version: webpack 3.12.0
+Time: 1564ms
+     Asset       Size  Chunks                    Chunk Names
+    one.js     497 kB       0  [emitted]  [big]  one
+ vendor.js     497 kB       1  [emitted]  [big]  vendor
+    two.js  674 bytes       2  [emitted]         two
+commons.js    3.84 kB       3  [emitted]         commons
+ [319] ./src/common.js 80 bytes {0} {2} [built]
+ [320] multi ramda 28 bytes {1} [built]
+ [321] ./src/one.js 106 bytes {0} [built]
+ [322] ./src/two.js 78 bytes {2} [built]
+    + 319 hidden modules
+-----------------------------------------
+Hash: 5611d4ffcaabba7a4880
+Version: webpack 3.12.0
+Time: 1370ms
+     Asset       Size  Chunks                    Chunk Names
+    two.js  534 bytes       0  [emitted]         two
+    one.js  623 bytes       1  [emitted]         one
+commons.js  162 bytes       2  [emitted]         commons
+ vendor.js     501 kB       3  [emitted]  [big]  vendor
+ [120] ./src/common.js 80 bytes {2} [built]
+ [121] multi ramda 28 bytes {3} [built]
+ [321] ./src/one.js 106 bytes {1} [built]
+ [322] ./src/two.js 78 bytes {0} [built]
+    + 319 hidden modules
+------------------------------------------
+Hash: 5611d4ffcaabba7a4880
+Version: webpack 3.12.0
+Time: 3977ms
+     Asset       Size  Chunks             Chunk Names
+    two.js  169 bytes       0  [emitted]  two
+    one.js  177 bytes       1  [emitted]  one
+commons.js   94 bytes       2  [emitted]  commons
+ vendor.js    79.8 kB       3  [emitted]  vendor
+ [120] ./src/common.js 80 bytes {2} [built]
+ [121] multi ramda 28 bytes {3} [built]
+ [321] ./src/one.js 106 bytes {1} [built]
+ [322] ./src/two.js 78 bytes {0} [built]
+    + 319 hidden modules
+-------------------------------------------
+Hash: 3542d8440ffb8bf76ba0
+Version: webpack 3.12.0
+Time: 1463ms
+     Asset       Size  Chunks                    Chunk Names
+commons.js  635 bytes       0  [emitted]         commons
+    two.js  410 bytes       1  [emitted]         two
+    one.js  499 bytes       2  [emitted]         one
+ vendor.js     501 kB       3  [emitted]  [big]  vendor
+ [120] ./src/common.js 119 bytes {0} [built]
+ [121] multi ramda 28 bytes {3} [built]
+ [321] ./src/one.js 106 bytes {2} [built]
+ [322] ./src/test.js 75 bytes {0} [built]
+ [323] ./src/two.js 78 bytes {1} [built]
+    + 319 hidden modules
+

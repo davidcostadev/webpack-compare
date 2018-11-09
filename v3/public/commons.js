@@ -1,0 +1,1 @@
+webpackJsonp([0],{120:function(o,n,c){"use strict";function i(){console.log("this is common"),Object(s.a)()}var s=c(322);n.a=i},322:function(o,n,c){"use strict";function i(){console.log("this is david")}n.a=i}});

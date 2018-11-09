@@ -1,0 +1,125 @@
+Hash: 5ffe9213d76563256410
+Version: webpack 4.25.1
+Time: 1894ms
+Built at: 2018-11-08 20:25:21
+    Asset      Size  Chunks             Chunk Names
+   one.js   664 KiB     one  [emitted]  one
+   two.js  4.53 KiB     two  [emitted]  two
+vendor.js   663 KiB  vendor  [emitted]  vendor
+Entrypoint vendor = vendor.js
+Entrypoint one = one.js
+Entrypoint two = two.js
+[0] multi ramda 28 bytes {vendor} [built]
+[./src/common.js] 80 bytes {one} {two} [built]
+[./src/one.js] 106 bytes {one} [built]
+[./src/two.js] 78 bytes {two} [built]
+    + 319 hidden modules
+----------------------
+Hash: 12403adf7ac078e22d03
+Version: webpack 4.25.1
+Time: 1807ms
+Built at: 2018-11-08 20:31:05
+               Asset      Size             Chunks             Chunk Names
+              one.js  7.29 KiB                one  [emitted]  one
+              two.js  4.53 KiB                two  [emitted]  two
+           vendor.js  6.47 KiB             vendor  [emitted]  vendor
+vendor~one~vendor.js   659 KiB  vendor~one~vendor  [emitted]  vendor~one~vendor
+Entrypoint vendor = vendor~one~vendor.js vendor.js
+Entrypoint one = vendor~one~vendor.js one.js
+Entrypoint two = two.js
+[0] multi ramda 28 bytes {vendor} [built]
+[./src/common.js] 80 bytes {one} {two} [built]
+[./src/one.js] 106 bytes {one} [built]
+[./src/two.js] 78 bytes {two} [built]
+    + 319 hidden modules
+------------------------------
+Hash: 12403adf7ac078e22d03
+Version: webpack 4.25.1
+Time: 1622ms
+Built at: 2018-11-08 20:33:38
+               Asset      Size             Chunks             Chunk Names
+              one.js  7.29 KiB                one  [emitted]  one
+              two.js  4.53 KiB                two  [emitted]  two
+           vendor.js  6.47 KiB             vendor  [emitted]  vendor
+vendor~one~vendor.js   659 KiB  vendor~one~vendor  [emitted]  vendor~one~vendor
+Entrypoint vendor = vendor~one~vendor.js vendor.js
+Entrypoint one = vendor~one~vendor.js one.js
+Entrypoint two = two.js
+[0] multi ramda 28 bytes {vendor} [built]
+[./src/common.js] 80 bytes {one} {two} [built]
+[./src/one.js] 106 bytes {one} [built]
+[./src/two.js] 78 bytes {two} [built]
+    + 319 hidden modules
+--------------------------------------------
+Hash: 12403adf7ac078e22d03
+Version: webpack 4.25.1
+Time: 1621ms
+Built at: 2018-11-08 20:36:51
+               Asset      Size             Chunks             Chunk Names
+              one.js  7.29 KiB                one  [emitted]  one
+              two.js  4.53 KiB                two  [emitted]  two
+           vendor.js  6.47 KiB             vendor  [emitted]  vendor
+vendor~one~vendor.js   659 KiB  vendor~one~vendor  [emitted]  vendor~one~vendor
+Entrypoint vendor = vendor~one~vendor.js vendor.js
+Entrypoint one = vendor~one~vendor.js one.js
+Entrypoint two = two.js
+[0] multi ramda 28 bytes {vendor} [built]
+[./src/common.js] 80 bytes {one} {two} [built]
+[./src/one.js] 106 bytes {one} [built]
+[./src/two.js] 78 bytes {two} [built]
+    + 319 hidden modules
+    -----------------------------------------
+    Hash: 641f42ad221428c3ee17
+Version: webpack 4.25.1
+Time: 1760ms
+Built at: 2018-11-08 20:43:23
+                Asset      Size              Chunks             Chunk Names
+               one.js   7.3 KiB                 one  [emitted]  one
+               two.js  4.53 KiB                 two  [emitted]  two
+            vendor.js  6.47 KiB              vendor  [emitted]  vendor
+vendors~one~vendor.js   659 KiB  vendors~one~vendor  [emitted]  vendors~one~vendor
+Entrypoint vendor = vendors~one~vendor.js vendor.js
+Entrypoint one = vendors~one~vendor.js one.js
+Entrypoint two = two.js
+[0] multi ramda 28 bytes {vendor} [built]
+[./src/common.js] 80 bytes {one} {two} [built]
+[./src/one.js] 106 bytes {one} [built]
+[./src/two.js] 78 bytes {two} [built]
+    + 319 hidden modules
+----------------------------------------
+Hash: 39dcf2b144796aa24dd2
+Version: webpack 4.25.1
+Time: 1375ms
+Built at: 2018-11-08 20:52:24
+     Asset      Size   Chunks             Chunk Names
+commons.js  1.17 KiB  commons  [emitted]  commons
+    one.js  6.83 KiB      one  [emitted]  one
+    two.js  6.69 KiB      two  [emitted]  two
+ vendor.js   659 KiB   vendor  [emitted]  vendor
+Entrypoint one = vendor.js commons.js one.js
+Entrypoint two = commons.js two.js
+[./src/common.js] 119 bytes {commons} [built]
+[./src/one.js] 106 bytes {one} [built]
+[./src/test.js] 75 bytes {commons} [built]
+[./src/two.js] 78 bytes {two} [built]
+    + 319 hidden modules
+---------------------------------------
+Hash: 39dcf2b144796aa24dd2
+Version: webpack 4.25.1
+Time: 1364ms
+Built at: 2018-11-08 20:58:42
+     Asset      Size   Chunks             Chunk Names
+commons.js  1.17 KiB  commons  [emitted]  commons
+    one.js  6.83 KiB      one  [emitted]  one
+    two.js  6.69 KiB      two  [emitted]  two
+ vendor.js   659 KiB   vendor  [emitted]  vendor
+Entrypoint one = vendor.js commons.js one.js
+Entrypoint two = commons.js two.js
+[./src/common.js] 119 bytes {commons} [built]
+[./src/one.js] 106 bytes {one} [built]
+[./src/test.js] 75 bytes {commons} [built]
+[./src/two.js] 78 bytes {two} [built]
+    + 319 hidden modules
+
+
+

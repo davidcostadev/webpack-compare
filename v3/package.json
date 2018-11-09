@@ -1,0 +1,17 @@
+{
+  "name": "webpack-compare-v3",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "license": "MIT",
+  "scripts": {
+    "build:dev": "rm public/* && webpack",
+    "build:prod": "rm public/* && webpack -p"
+  },
+  "devDependencies": {
+    "webpack": "3"
+  },
+  "dependencies": {
+    "ramda": "^0.25.0",
+    "webpack-bundle-analyzer": "^3.0.3"
+  }
+}
